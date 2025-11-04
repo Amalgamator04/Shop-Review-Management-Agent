@@ -1,0 +1,1 @@
+model-building --> prediction --> scraped_data(input) --prediction--> [Positive]  --LLM--> {'Bad_stuff'='Service','Staff','Good Stuff'='ambience','Owner'}
